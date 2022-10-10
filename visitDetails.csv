@@ -1,0 +1,4 @@
+visitNo,patientNo,sicknessNo,labNo,drugNo
+01,pat1,sick1,lab1,drug1
+02,pat2,sick2,lab2,drug2
+03,pat3,sick3.lab3,drug3

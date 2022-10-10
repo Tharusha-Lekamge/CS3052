@@ -1,0 +1,7 @@
+uname,password,userType
+Tha,827ccb0eea8a706c4c34a16891f84e7b,patient
+who,01cfcd4f6b8770febfb40cb906715822,doctor
+nursy,adcaec3805aa912c0d0b14a81bedb6ff,nurse
+dococ,8705056ad307ebf0c2970fe3c6d21603,lab
+ice,495bf9840649ee1ec953d99f8e769889,pharmacy
+lord,c59d2d883a256a732a2c7a194f8ff0b1,admin
